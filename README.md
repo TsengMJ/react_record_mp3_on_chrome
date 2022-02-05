@@ -1,7 +1,3 @@
----
-title: React Record MP3 file on Chrome
-tags: Blog
----
 # React Record MP3 file on Chrome
 
 ## Introduction
@@ -184,4 +180,4 @@ Hope this blog can help you solve your problem.
 In the future, I will create a package to handle the above things, and I will update it when it is completed~
 
 ## More
-See hole example code on [Github]()
+See hole example code on [Github](https://github.com/TsengMJ/react_record_mp3_on_chrome)
